@@ -4,9 +4,9 @@
 
 During my internship at CodeClause, I had the incredible opportunity to work on a cutting-edge project involving the integration of a robust payment gateway. 🚀💻
 
-[🔗 Check out my internship project here ](https://sivapullaiah.github.io/CodeClause_project_URL_Shortner/index.html)
+[🔗 Check out my internship project here ](https://sivapullaiah.github.io/CodeClause_Integrated_Payment_Gateway/index.html)
 
-       https://sivapullaiah.github.io/CodeClause_project_URL_Shortner/index.html
+       https://sivapullaiah.github.io/CodeClause_Integrated_Payment_Gateway/
 
 > In this page, I:
 <pre>
